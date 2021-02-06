@@ -10,7 +10,7 @@ function App() {
         <p>
           Edit
           <code>src/App.js</code>
-          and save to reload.
+          and save to reload. Hello how are you
         </p>
         <a
           className="App-link"
@@ -18,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Amin
+          Hello React
         </a>
       </header>
     </div>

@@ -4,6 +4,6 @@
     "source.fixAll.eslint": true
   },
   "editor.fontFamily": "FiraCode-Light",
-  "editor.fontLigatures": true,
+  "editor.fontLigatures": false,
   "editor.formatOnSave": true,
 }
